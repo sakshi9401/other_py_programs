@@ -1,0 +1,10 @@
+4 X 1 is 4
+4 X 2 is 8
+4 X 3 is 12
+4 X 4 is 16
+4 X 5 is 20
+4 X 6 is 24
+4 X 7 is 28
+4 X 8 is 32
+4 X 9 is 36
+4 X 10 is 40

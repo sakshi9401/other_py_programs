@@ -1,0 +1,10 @@
+5 X 1 is 5
+5 X 2 is 10
+5 X 3 is 15
+5 X 4 is 20
+5 X 5 is 25
+5 X 6 is 30
+5 X 7 is 35
+5 X 8 is 40
+5 X 9 is 45
+5 X 10 is 50

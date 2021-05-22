@@ -1,0 +1,10 @@
+3 X 1 is 3
+3 X 2 is 6
+3 X 3 is 9
+3 X 4 is 12
+3 X 5 is 15
+3 X 6 is 18
+3 X 7 is 21
+3 X 8 is 24
+3 X 9 is 27
+3 X 10 is 30
